@@ -19,6 +19,9 @@ export default function(center, radius) {
       // if(distance>radius) return false
       // else return true
       // Comments method one is more quick when the program is running but method two is easier to understand
+      // I master the Graphic Design in UE4.
+      // If it is necessary, I can show you about my graphic design.
+      // I believe it can help to create fantastic Tattoos.
     }
   }
 }
